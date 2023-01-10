@@ -1,3 +1,38 @@
 [
+//CS types: cultured, maritime, mercantile, militaristic, religious
 
+/*
+colors:
+Cultured:
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+
+Maritime:
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+
+Mercantile:
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+
+Militaristic:
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+
+Religious:
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+*/
+	{
+		"name": "Irem",
+		"adjective": ["Iremi"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Irem was, is, will be - and now, never.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Irem of the Pillars"]
+	},
 ]
