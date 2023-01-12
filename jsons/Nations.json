@@ -22,17 +22,664 @@ Militaristic:
 Religious:
 		"outerColor": [50, 50, 50],
 		"innerColor": [224, 224, 224],
+		
+	{
+		"name": "Fallen London",
+		"adjective": ["Fallen London"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Fallen London"]
+	},
 */
+	//CULTURED
+	{
+		"name": "Fallen London",
+		"adjective": ["Fallen Londonite"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Fallen London"]
+	},
+	{
+		"name": "Khan's Glory",
+		"adjective": ["Noble Khaganate"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Khan's Glory"]
+	},
+	{
+		"name": "Venderbight",
+		"adjective": ["Venderbight"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Venderbight"]
+	},
+	{
+		"name": "Polythreme",
+		"adjective": ["Polythreme"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "HERE IS SCREAMING.",
+		"attacked": "HERE IS SCREAMING.",
+		"defeated": "HERE IS SCREAMING.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Polythreme"]
+	},
+	{
+		"name": "Fathomking's Hold",
+		"adjective": ["Court Drownie"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Fathomking's Hold"]
+	},
+	{
+		"name": "Empire of Hands",
+		"adjective": ["Pentecost Ape"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Empire of Hands"]
+	},
+	{
+		"name": "Nuncio",
+		"adjective": ["Nuncio"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "DO NOT RETURN, SENDER.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Nuncio"]
+	},
+	{
+		"name": "Port Cecil",
+		"adjective": ["Port Cecil"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "So, the first move in a new game is made.",
+		"attacked": "A bold move, but are you ready for the exchange?",
+		"defeated": "This is checkmate for us.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Port Cecil"]
+	},
+	{
+		"name": "Dahut",
+		"adjective": ["Dahut Drownie"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Dahut"]
+	},
+	{
+		"name": "Anthe",
+		"adjective": ["Anthean"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Anthe"]
+	},
+	{
+		"name": "Low Barnet",
+		"adjective": ["Low Barnet"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Low Barnet"]
+	},
+	{
+		"name": "Scrimshander",
+		"adjective": ["Scrimshander"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Scrimshander"]
+	},
+	{
+		"name": "Undercrow",
+		"adjective": ["Undercrow"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [152, 0, 241],
+		"cities": ["Undercrow"]
+	},
+	
+	//MARITIME
+	{
+		"name": "Demeaux Island",
+		"adjective": ["Iron and Misery Funger"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Demeaux Island"]
+	},
+	{
+		"name": "Hunter's Keep",
+		"adjective": ["Sisters' Servants"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Hunter's Keep"]
+	},
+	{
+		"name": "Uttershroom",
+		"adjective": ["Blemmigan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Uttershroom"]
+	},
+	{
+		"name": "Shepherd Isles",
+		"adjective": ["Shepherd Isles"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Shepherd Isles"]
+	},
+	{
+		"name": "Mutton Island",
+		"adjective": ["Mutton Island"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Mutton Island"]
+	},
+	{
+		"name": "Mangrove College",
+		"adjective": ["Mangrove College"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Mangrove College"]
+	},
+	{
+		"name": "Aestival",
+		"adjective": ["Aestival"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Aestival"]
+	},
+	{
+		"name": "Gant Pole",
+		"adjective": ["Gant Pole"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Gant Pole"]
+	},
+	{
+		"name": "Nook",
+		"adjective": ["Nook"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [153, 255, 51],
+		"cities": ["Nook"]
+	},
+	
+	//MERCANTILE
 	{
 		"name": "Irem",
 		"adjective": ["Iremi"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Irem was, is, will be - and now, never.",
 		"outerColor": [50, 50, 50],
-		"innerColor": [152, 0, 241],
+		"innerColor": [255, 255, 0],
 		"cities": ["Irem of the Pillars"]
 	},
+	{
+		"name": "Khan's Heart",
+		"adjective": ["Khaganate"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Khan's Heart"]
+	},
+	{
+		"name": "Salt Lions",
+		"adjective": ["Salt Lions"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Salt Lions"]
+	},
+	{
+		"name": "Isle of Cats",
+		"adjective": ["Isle of Cats"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Isle of Cats"]
+	},
+	{
+		"name": "Cumaean Canal",
+		"adjective": ["Cumaean Canal"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Cumaean Canal"]
+	},
+	{
+		"name": "Wisdom",
+		"adjective": ["Wisdom"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Wisdom"]
+	},
+	{
+		"name": "Port Carnelian",
+		"adjective": ["Port Carnelian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Port Carnelian"]
+	},
+	{
+		"name": "Adam's Way",
+		"adjective": ["Presbyterate"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Adam's Way"]
+	},
+	{
+		"name": "Mount Palmerston",
+		"adjective": ["Faustian Exile"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Mount Palmerston"]
+	},
+	{
+		"name": "Rosegate",
+		"adjective": ["Rosegate"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Rosegate"]
+	},
+	{
+		"name": "Hideaway",
+		"adjective": ["Hideaway"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255, 255, 0],
+		"cities": ["Hideaway"]
+	},
+	
+	//MILITARISTIC
+	{
+		"name": "Iron Republic",
+		"adjective": ["Faustian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Iron Republic"]
+	},
+	{
+		"name": "Khan's Shadow",
+		"adjective": ["Khaganian Exile"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Khan's Shadow"]
+	},
+	{
+		"name": "Station III",
+		"adjective": ["Station III"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Station III"]
+	},
+	{
+		"name": "Gaider's Mourn",
+		"adjective": ["Pirate"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Gaider's Mourn"]
+	},
+	{
+		"name": "Abbey Rock",
+		"adjective": ["Sisterhood"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Abbey Rock"]
+	},
+	{
+		"name": "Grand Geode",
+		"adjective": ["Glorious"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Grand Geode"]
+	},
+	{
+		"name": "Pigmote Isle",
+		"adjective": ["Pigmote Isle"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Pigmote Isle"]
+	},
+	{
+		"name": "Chelonate",
+		"adjective": ["Chelonate"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Chelonate"]
+	},
+	{
+		"name": "Kingeater's Castle",
+		"adjective": ["Kingeater's Castle"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Kingeater's Castle"]
+	},
+	{
+		"name": "Wrack",
+		"adjective": ["Wrecker"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [255,69,0],
+		"cities": ["Wrack"]
+	},
+	
+	//RELIGIOUS
+	{
+		"name": "Whither",
+		"adjective": ["Whither"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Whither"]
+	},
+	{
+		"name": "Visage",
+		"adjective": ["Visage"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Visage"]
+	},
+	{
+		"name": "Godfall",
+		"adjective": ["Pirate-monk"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Godfall"]
+	},
+	{
+		"name": "Frostfound",
+		"adjective": ["Frostfound"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Frostfound"]
+	},
+	{
+		"name": "Codex",
+		"adjective": ["Codex"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Codex"]
+	},
+	{
+		"name": "Chapel of Lights",
+		"adjective": ["Chapel of Lights"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Chapel of Lights"]
+	},
+	{
+		"name": "Saviour's Rocks",
+		"adjective": ["Saviour's Rocks"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Saviour's Rocks"]
+	},
+	{
+		"name": "Avid Horizon",
+		"adjective": ["Avid Horizon"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Avid Horizon"]
+	},
+	{
+		"name": "Varchas",
+		"adjective": ["Varchaasi"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Varchas"]
+	},
+	{
+		"name": "Aigul",
+		"adjective": ["Aigul"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [224, 224, 224],
+		"cities": ["Aigul"]
+	}
+	
 ]
