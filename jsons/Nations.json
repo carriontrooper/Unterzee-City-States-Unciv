@@ -80,7 +80,7 @@ Religious:
 
 		"declaringWar": "HERE IS SCREAMING.",
 		"attacked": "HERE IS SCREAMING.",
-		"defeated": "HERE IS SCREAMING.",
+		"defeated": "HERE IS SILENCE.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [152, 0, 241],
 		"cities": ["Polythreme"]
@@ -403,7 +403,7 @@ Religious:
 	},
 	{
 		"name": "Mount Palmerston",
-		"adjective": ["Faustian Exile"],
+		"adjective": ["Exiled Faustian"],
 		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -453,7 +453,7 @@ Religious:
 	},
 	{
 		"name": "Khan's Shadow",
-		"adjective": ["Khaganian Exile"],
+		"adjective": ["Exiled Khaganian"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -553,7 +553,7 @@ Religious:
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "We promise you, we will sink your ships!",
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [255,69,0],
@@ -566,9 +566,9 @@ Religious:
 		"adjective": ["Whither"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"declaringWar": "Did you expect a war declaration from us?",
+		"attacked": "Have you considered the repercussions?",
+		"defeated": "Will you at least remember us?",
 		"outerColor": [50, 50, 50],
 		"innerColor": [224, 224, 224],
 		"cities": ["Whither"]
@@ -602,9 +602,9 @@ Religious:
 		"adjective": ["Frostfound"],
 		"cityStateType": "Religious",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"declaringWar": "Sorry, but out monks really need someone to wrestle with right now.",
+		"attacked": "Oho! We're ready for you!",
+		"defeated": "Ah well, a loss is a loss.",
 		"outerColor": [50, 50, 50],
 		"innerColor": [224, 224, 224],
 		"cities": ["Frostfound"]
@@ -664,7 +664,7 @@ Religious:
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"defeated": "The mirrors failed us...",
 		"outerColor": [50, 50, 50],
 		"innerColor": [224, 224, 224],
 		"cities": ["Varchas"]
